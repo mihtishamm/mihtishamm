@@ -137,6 +137,6 @@ Corporate website and tooling for an event management and hostess/promoter agenc
 I'm always open to interesting projects and conversations about backend architecture, real-time systems and payments.
 
 📧 [mihtisham791@outlook.com](mailto:mihtisham791@outlook.com)
-💬 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+💬 [LinkedIn](https://linkedin.com/in/mihtisham)
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
