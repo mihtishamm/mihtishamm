@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:mihtisham791@outlook.com"><img src="https://img.shields.io/badge/Email-mihtisham791@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/mihtishamm"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/mihtisham"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
